@@ -1,15 +1,27 @@
 
+body {
+    cursor: url('../assets/cursor/cusor-7.PNG'), auto;
+}
 
+
+
+.card , button  {
+    cursor: url('../assets/cursor/cusor77.PNG'), pointer;
+}
 .bg-video {
-    position: absolute;
-    z-index: -2;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center; 
+    background-image: url('../assets/img-sete/gif-sete.gif'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: -1;
 }
+
+
 
 .bg-video .video {
     width: 100vw; 
