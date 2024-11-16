@@ -1,4 +1,4 @@
-#Os Sete Pecados Capitais | Jo-ken-po Edition
+# Os Sete Pecados Capitais | Jo-ken-po Edition
 
 Jogo de jokenpo que criei para aprender os  conceitos de lógica de programação aplicados a jogos
 
